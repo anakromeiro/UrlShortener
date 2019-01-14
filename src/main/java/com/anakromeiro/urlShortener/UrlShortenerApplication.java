@@ -12,7 +12,7 @@ public class UrlShortenerApplication {
 
 	@RequestMapping(value = "/", method = RequestMethod.GET)
 	String index() {
-		return "RESTful Server for URL Shortener";
+		return "RESTful Server for URL Shortener\n Developed by: anakromeiro@gmail.com";
 	}
 
 	public static void main(String[] args) {
