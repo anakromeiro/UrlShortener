@@ -2,8 +2,12 @@
 API for short URL creation
 
 ## Docker
+To run project as a docker image:
+
+First:
 ./mvnw install dockerfile:build
 
+Then:
 docker-compose up
 
 ## Endpoints
