@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Implementation-Title: urlShortener
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: anakromeiro
+Implementation-Vendor-Id: com.anakromeiro
+Spring-Boot-Version: 2.1.2.RELEASE
+Main-Class: org.springframework.boot.loader.JarLauncher
+Start-Class: com.anakromeiro.urlShortener.UrlShortenerApplication
+Spring-Boot-Classes: BOOT-INF/classes/
+Spring-Boot-Lib: BOOT-INF/lib/
+Created-By: Apache Maven 3.5.4
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/url_shortener_challenge
+
